@@ -1,0 +1,12 @@
+{
+    "MDI": [
+       {
+        "TIME": 5,
+        "DEPA": "ALL",
+        "DEST": "LSZH",
+        "VALIDDATE": "03/06",
+        "VALIDTIME": "0800-1900",
+        "MESSAGE": "TEST"
+       }
+    ]
+}
