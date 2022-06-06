@@ -5,7 +5,7 @@
         "DEPA": "EDDB",
         "DEST": "EDDM",
         "VALIDDATE": "06/06",
-        "VALIDTIME": "0800-1900",
+        "VALIDTIME": "0800-1000",
         "MESSAGE": "TEST"
        }
     ]
