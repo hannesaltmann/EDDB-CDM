@@ -2,7 +2,7 @@
     "MDI": [
       {
         "TIME": 5,
-        "DEPA": "EDDB",
+        "DEPA": "ALL",
         "DEST": "EDDM",
         "VALIDDATE": "06/06",
         "VALIDTIME": "1100-1500",
