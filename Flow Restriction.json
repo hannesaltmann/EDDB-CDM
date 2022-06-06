@@ -1,9 +1,9 @@
 {
     "MDI": [
       {
-        "TIME": 3,
+        "TIME": 5,
         "DEPA": "ALL",
-        "DEST": "EDDM",
+        "DEST": "EDDL",
         "VALIDDATE": "06/06",
         "VALIDTIME": "1200-1500",
         "MESSAGE": "LPPT Thursdays"
