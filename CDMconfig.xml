@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<CDM>
+	<ctot option="callsign" />
+	<rate ops="40" />
+	<rateLvo ops="10" />
+	<expiredCtot time="25" />
+	<ReaMsg minutes="0" />
+	<Taxizones url="" />
+	<DefaultTaxiTime minutes="15" />
+	<RefreshTime seconds="20" />
+	<Debug mode="false" />
+	<FlowRestrictions url="https://raw.githubusercontent.com/hannesaltmann/EDDB-CDM/main/flow.json" />
+</CDM>
