@@ -1,11 +1,11 @@
 {
     "MDI": [
       {
-        "TIME": 3,
+        "TIME": 5,
         "DEPA": "ALL",
         "DEST": "EDDM",
         "VALIDDATE": "06/06",
-        "VALIDTIME": "1300-1500",
+        "VALIDTIME": "1100-1300",
         "MESSAGE": "EVENT EDDL TEST"
        },
        {
