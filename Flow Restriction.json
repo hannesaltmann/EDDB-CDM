@@ -1,12 +1,20 @@
 {
     "MDI": [
-       {
-        "TIME": 5,
-        "DEPA": "EDDB",
+      {
+        "TIME": 3,
+        "DEPA": "ALL",
         "DEST": "EDDM",
         "VALIDDATE": "06/06",
         "VALIDTIME": "0800-1000",
-        "MESSAGE": "TEST"
+        "MESSAGE": "LPPT Thursdays"
+       },
+       {
+        "TIME": 3,
+        "DEPA": "ALL",
+        "DEST": "EDDH",
+        "VALIDDATE": "07/04",
+        "VALIDTIME": "1700-1900",
+        "MESSAGE": "EDDH Thursday"
        }
     ]
 }
