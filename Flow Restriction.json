@@ -5,7 +5,7 @@
         "DEPA": "ALL",
         "DEST": "EDDM",
         "VALIDDATE": "06/06",
-        "VALIDTIME": "0000-1800",
+        "VALIDTIME": "1000-1800",
         "MESSAGE": "EVENT EDDL TEST"
        },
        {
